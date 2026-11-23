@@ -179,6 +179,13 @@ html{
     color: transparent;
 }
 
+body.escuro .cartao:hover h3 {
+    background: linear-gradient(90deg, rgb(192, 12, 12, #F97316);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
 .cartao p {
     line-height: 1.7;
     font-size: 14px;
