@@ -311,6 +311,15 @@ body.escuro .cartao:hover {
     color: #101010;
 }
 
+body.escuro .botao {
+    background-color: #E11D48;
+    color: #ffffff;
+}
+
+body.escuro .botao:hover {
+    background-color: #BE123C;
+}
+
 .botao-contato {
     background-color: #111111;
     color: rgb(255, 255, 255);
