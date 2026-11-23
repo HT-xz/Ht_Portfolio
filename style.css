@@ -311,8 +311,12 @@ body.escuro .cartao:hover {
     color: #101010;
 }
 
+.botao:hover{
+    background-color: #2d0edd;
+}
+
 body.escuro .botao {
-    background-color: #E11D48;
+    background-color: rgb(192, 12, 12);
     color: #ffffff;
 }
 
