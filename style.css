@@ -57,12 +57,12 @@ body{
 }
 
 body.escuro{
-    background-color: #FFFFFF;
+    background-color: #0F172A;
     color: rgb(192, 12, 12);
 }
 
 body.escuro .navbar{
-    background-color: #1E293B;
+    background-color: #ffffff;
 }
 
 body.escuro .menu a{
