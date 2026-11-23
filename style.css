@@ -180,7 +180,7 @@ html{
 }
 
 body.escuro .cartao:hover h3 {
-    background: linear-gradient(90deg, #b00b0b, #F97316;
+    background: linear-gradient(90deg, #b00b0b, #F97316);
     background-clip: text;
     -webkit-background-clip: text;
     color: transparent;
