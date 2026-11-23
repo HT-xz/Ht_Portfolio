@@ -173,7 +173,7 @@ html{
 }
 
 .cartao:hover h3 {
-    background: linear-gradient(90deg, #d4a017, #8056e9);
+    background: linear-gradient(90deg, #8B5CF6, #E11D48);
     background-clip: text;
     -webkit-background-clip: text;
     color: transparent;
