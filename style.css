@@ -62,7 +62,7 @@ body.escuro{
 }
 
 body.escuro .navbar{
-    background-color: #ffffff;
+    background-color: #1E293B;
 }
 
 body.escuro .menu a{
@@ -70,7 +70,7 @@ body.escuro .menu a{
 }
 
 body.escuro .menu a:hover{
-    color: #c0c0c0b0;
+    color: #FFFFFF;
     transition: 0.3s;
 }
 
