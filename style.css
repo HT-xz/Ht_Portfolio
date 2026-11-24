@@ -344,6 +344,10 @@ body.escuro .botao:hover {
 .botao-contato:hover {
     transform: translateY(-4px);
 }
+body.escuro .botao-contato:hover {
+    background-color: #E11D48;
+    color: #ffffff;
+    border-color: #E11D48;
 
 
 @media (max-width: 768px) {
